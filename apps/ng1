@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     path: chart/myapp
-    repoURL: git@github.com:weyensh1001/kube.git
+    repoURL: https://github.com/weyensh1001/kube.git
     targetRevision: main
     helm:
       releaseName: ng1
