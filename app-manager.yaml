@@ -12,7 +12,7 @@ spec:
       jsonnet: {}
       recurse: true
     path: apps
-    repoURL: git@github.com:weyensh1001/kube.git
+    repoURL: https://github.com/weyensh1001/kube.git
     targetRevision: main
   syncPolicy:
     automated:
